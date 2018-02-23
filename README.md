@@ -8,7 +8,7 @@ To use it in your gitbook, add it to your book.json
 
 ```
 {
-    "plugins": ["collapse-expand-chapters"]
+    "plugins": ["theme-website"]
 }
 ```
 
@@ -16,7 +16,7 @@ To add links to header and footer, and logo to header
 
 ```
 {
-    "plugins": ["collapse-expand-chapters"],
+    "plugins": ["theme-website"],
     "pluginsConfig": {
 		"theme-sectionfy": {
 			"title": "Git Info book title",
